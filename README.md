@@ -1,18 +1,17 @@
 # [ Screenshot ]
-![logo](https://github.com/saadma3lomat/labsLINUX/blob/main/)
+![logo](https://github.com/saadma3lomat/hexnj/blob/main/202.png)
 
 # [ Installation ]
 ```
 
-$ git clone https://github.com/saadma3lomat/labsLINUX
+$ git clone https://github.com/saadma3lomat/hexnj
+$ cd hexnj
 
-$ cd labsLINUX
-
-$ bash install.sh
+$ bash hex-Nj.sh
 ```
 
 # [ Running ]
 
 ```
-$ bash linux.sh
+$ bash hex-Nj.sh
 ```
