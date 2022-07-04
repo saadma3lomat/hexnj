@@ -7,11 +7,11 @@
 $ git clone https://github.com/saadma3lomat/hexnj
 $ cd hexnj
 
-$ bash hex-Nj.sh
+$ bash hex-NJ.sh
 ```
 
 # [ Running ]
 
 ```
-$ bash hex-Nj.sh
+$ bash hex-NJ.sh
 ```
